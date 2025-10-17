@@ -1,2 +1,2 @@
 # Important concepts:
-|Sr.|||
+|Sr.|Concept||
