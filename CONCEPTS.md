@@ -9,4 +9,4 @@
 |[Link](https://aclanthology.org/2023.eacl-main.125.pdf)|
 
 ## Multi-agent Debate(Debate):
-Typically MAD
+Typically MAD consist of three steps
