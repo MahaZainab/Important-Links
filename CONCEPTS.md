@@ -8,5 +8,5 @@
 2. A small example of an image like Figure 3 or 5 of the paper would be good. The image in our case could align to our methodology: 1. QA pair and relevant examples by Tf-IDF as CoT  --> 2. LLM prompt to generate answer   —->3.  LLM as Judge output and scores.
 |[Link](https://aclanthology.org/2023.eacl-main.125.pdf)|
 
-## Multi-agent Debate:
+## Multi-agent Debate(Debate):
 Typically MAD
