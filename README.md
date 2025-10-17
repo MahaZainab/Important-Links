@@ -6,4 +6,4 @@
 |3    |ACL Paper Planner|[ACL Paper Planner](https://docs.google.com/document/d/1osH-iDJXn1eyVeekytDyi5ZOUqfbUQvrPyzgSdFv5Tg/edit?tab=t.0#heading=h.ymdzzsrtrfzf)|
 
 
-# Important Concepts
+
