@@ -14,4 +14,5 @@ Typically MAD consist of three steps:
 Debate: Agents debate to indentify logical inconsistencies or knowledge gap
 3. Consensus Building: where consensus is determined by majority voting or a judge agent.
 
-It is also notable that if we want to enhance the reasoning capabilities of MAD we can assign different roles to agents, which will enable the agents to debate from various perspectives
+It is also notable that if we want to enhance the reasoning capabilities of MAD we can assign different roles to agents, which will enable the agents to debate from various perspectives.
+
