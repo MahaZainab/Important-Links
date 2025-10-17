@@ -1,3 +1,6 @@
 # Important-Links
 Planning paper writing
-:[Planning Paper Writing](https://deviparikh.medium.com/planning-paper-writing-553f497e8839)
+:
+| Sr. | Topic | Link |
+|-----|-------|------|
+|1    |Planning Paper Writing||
