@@ -11,4 +11,4 @@
 ## Multi-agent Debate(Debate):
 Typically MAD consist of three steps:
 1. response generation: Each agent produces its initial solution based upon its unique perspective
-Debate: Agents debate to indentify logical inconsistencies or knowledge 
+Debate: Agents debate to indentify logical inconsistencies or knowledge gap
