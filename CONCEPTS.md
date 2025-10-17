@@ -10,4 +10,4 @@
 
 ## Multi-agent Debate(Debate):
 Typically MAD consist of three steps:
-1. response generation: Each agent produces 
+1. response generation: Each agent produces its initial 
