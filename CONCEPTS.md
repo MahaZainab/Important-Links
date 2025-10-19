@@ -17,4 +17,4 @@ Debate: Agents debate to indentify logical inconsistencies or knowledge gap
 It is also notable that if we want to enhance the reasoning capabilities of MAD we can assign different roles to agents, which will enable the agents to debate from various perspectives.
 
 We can also do this in RQ5: Multipersona, which  incorporates an affirmative agent(agnel) and a negative agent presenting their agents to the judge, which ultimately determine the final solution.
-This 
+This is 
