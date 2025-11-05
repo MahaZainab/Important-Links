@@ -15,7 +15,7 @@
 
 ## Statement of Purpose
 |Sr.|Topic|Link|
-|1.||[Link](https://english.washington.edu/writing-statement-purpose-general-advice)|
+|1.|Writing |[Link](https://english.washington.edu/writing-statement-purpose-general-advice)|
 |2.|||
 |3.|||
 |4.|||
