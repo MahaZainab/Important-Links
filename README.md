@@ -8,7 +8,7 @@
 |5|Error Code for Paper Introductions|[Link](https://gameweld.medium.com/error-codes-for-paper-introductions-8deb0d6825c2)|
 |6|Tips for writing NLP Papers|[Link](https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f)|
 |7|Heilmeier Catechism|[Link](https://www.darpa.mil/about/heilmeier-catechism)|
-|7|||
+|8|||
 |8|||
 |9|||
 |10|||
