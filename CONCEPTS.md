@@ -12,8 +12,8 @@
 |6|||
 |7|||
 |8|||
-||||
-||||
+|9|||
+|10|||
 
 ## Multi-agent Debate(Debate):
 Typically MAD consist of three steps:
