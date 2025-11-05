@@ -9,7 +9,6 @@
 |6|Tips for writing NLP Papers|[Link](https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f)|
 |7|Heilmeier Catechism|[Link](https://www.darpa.mil/about/heilmeier-catechism)|
 |8|||
-|8|||
 |9|||
 |10|||
 
