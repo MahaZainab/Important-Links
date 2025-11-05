@@ -16,6 +16,6 @@
 ## Statement of Purpose
 |Sr.|Topic|Link|
 |1.|Writing Statement of Purpose General Advice|[Link](https://english.washington.edu/writing-statement-purpose-general-advice)|
-|2.||[Link](https://brightlinkprep.com/sample-stanford-computer-science-statement-of-purpose/)|
+|2.|Sample |[Link](https://brightlinkprep.com/sample-stanford-computer-science-statement-of-purpose/)|
 |3.|||
 |4.|||
