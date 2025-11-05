@@ -10,7 +10,7 @@
 |7|Heilmeier Catechism|[Link](https://www.darpa.mil/about/heilmeier-catechism)|
 |8|Searching the literature|[Link](https://tuskegee.zoom.us/rec/share/VDeE_ZYDEFc2Q3Yt9NhpNpRqqpjcpZvaFe1GzyvCq1YjWngMeRedBdUmx5ugxa2Q.P2jMlCpxaFEUKBrh?startTime=1760994297000)|
 |9|Technical Writing|[Link](https://tuskegee.zoom.us/rec/share/-sOJjpdsyQU2P4JXXRF5pxH4nGiwvi1D9yz05USbnZqrgDP2AC2DFC5f3LYd3KE.TczT9akXaRcgOc3f?startTime=1761599400000)|
-|10|||
+|10||[L](https://tuskegee.zoom.us/rec/share/LS6PembBAzFzR945nMgSlTW1yuBAHEAB3otVFk4g_Ay_1BOfJFBFy1TXK_prHsQf.nZI2sB_Q5mRtnbgI?startTime=1762207296000)|
 
 ## Statement of Purpose
 |Sr.|Topic|Link|
