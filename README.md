@@ -9,7 +9,7 @@
 |6|Tips for writing NLP Papers|[Link](https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f)|
 |7|Heilmeier Catechism|[Link](https://www.darpa.mil/about/heilmeier-catechism)|
 |8|Searching the literature|[Link](https://tuskegee.zoom.us/rec/share/VDeE_ZYDEFc2Q3Yt9NhpNpRqqpjcpZvaFe1GzyvCq1YjWngMeRedBdUmx5ugxa2Q.P2jMlCpxaFEUKBrh?startTime=1760994297000)|
-|9||[Link](https://tuskegee.zoom.us/rec/share/-sOJjpdsyQU2P4JXXRF5pxH4nGiwvi1D9yz05USbnZqrgDP2AC2DFC5f3LYd3KE.TczT9akXaRcgOc3f?startTime=1761599400000)|
+|9|Technical Writing|[Link](https://tuskegee.zoom.us/rec/share/-sOJjpdsyQU2P4JXXRF5pxH4nGiwvi1D9yz05USbnZqrgDP2AC2DFC5f3LYd3KE.TczT9akXaRcgOc3f?startTime=1761599400000)|
 |10|||
 
 ## Statement of Purpose
