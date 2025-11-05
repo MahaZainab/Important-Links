@@ -10,6 +10,7 @@
 |4|Error Code for Paper Introductions|[Link](https://gameweld.medium.com/error-codes-for-paper-introductions-8deb0d6825c2)|
 ||||
 ||||
+||||
 
 ## Multi-agent Debate(Debate):
 Typically MAD consist of three steps:
