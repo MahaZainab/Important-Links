@@ -8,7 +8,7 @@
 2. A small example of an image like Figure 3 or 5 of the paper would be good. The image in our case could align to our methodology: 1. QA pair and relevant examples by Tf-IDF as CoT  --> 2. LLM prompt to generate answer   —->3.  LLM as Judge output and scores.
 |[Link](https://aclanthology.org/2023.eacl-main.125.pdf)|
 |4|Error Code for Paper Introductions|[Link](https://gameweld.medium.com/error-codes-for-paper-introductions-8deb0d6825c2)|
-|5|Tips for writing NLP Papers||
+|5|Tips for writing NLP Papers|[Link](https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f)|
 |6|||
 |7|||
 |8|||
