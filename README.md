@@ -18,4 +18,3 @@
 |1.|Writing Statement of Purpose General Advice|[Link](https://english.washington.edu/writing-statement-purpose-general-advice)|
 |2.|Sample Stanford Computer Science Statement of Purpose|[Link](https://brightlinkprep.com/sample-stanford-computer-science-statement-of-purpose/)|
 |3.|MIT Graduate School Statement of Purpose|[Link](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-statement-of-purpose/)|
-|4.|||
