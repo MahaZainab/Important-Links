@@ -5,7 +5,6 @@
 |2    |How we write rebuttals|[How we write rebuttals](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1)|
 |3    |ACL Paper Planner|[ACL Paper Planner](https://docs.google.com/document/d/1osH-iDJXn1eyVeekytDyi5ZOUqfbUQvrPyzgSdFv5Tg/edit?tab=t.0#heading=h.ymdzzsrtrfzf)|
 |4 | Tips for Writing NLP Papers | [Tips for Writing NLP Paper](https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f)|
-
 |4|Error Code for Paper Introductions|[Link](https://gameweld.medium.com/error-codes-for-paper-introductions-8deb0d6825c2)|
 |5|Tips for writing NLP Papers|[Link](https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f)|
 |6|Heilmeier Catechism|[Link](https://www.darpa.mil/about/heilmeier-catechism)|
